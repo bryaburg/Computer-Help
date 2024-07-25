@@ -52,6 +52,12 @@ Control + Shift + ESC
 
 ## CMD Shortcuts
 
+### Windows 10 Password Change
+
+'''shell
+net user [username] [new password]
+'''
+
 ### System Scan
 
 ```shell
