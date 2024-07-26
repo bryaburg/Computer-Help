@@ -54,9 +54,9 @@ Control + Shift + ESC
 
 ### Windows 10 Password Change
 
-'''shell
+```shell
 net user [username] [new password]
-'''
+```
 
 ### System Scan
 
